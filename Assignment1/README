@@ -1,0 +1,7 @@
+Team No. 12
+Name : Pritha Ganguly(CS17S013) and Sweta Kumari(BT17D019)
+
+1. The folder s12 in the src folder contains the 10 faces given.
+2. Please keep the EigenVector.mat file in the src folder.
+3. To run prob2a.m and prob2b.m, simply run them in MATLAB by writing the name of the file.
+4. To run prob2c.m, run them in MATLAB by writing the name of the file and when prompted to enter the image, please enter the filename in the format 's12/face1.pgm' (including the quotes) for face1.
